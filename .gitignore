@@ -1,5 +1,5 @@
 HELP.md
-/target/
+forum/target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -27,3 +27,7 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+### YARN ###
+node_modules/
+yarn.lock
